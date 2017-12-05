@@ -12,6 +12,7 @@
 		A305EB3D1FD73CE900F002D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A305EB3B1FD73CE900F002D9 /* Main.storyboard */; };
 		A305EB3F1FD73CE900F002D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A305EB3E1FD73CE900F002D9 /* Assets.xcassets */; };
 		A305EB421FD73CE900F002D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A305EB401FD73CE900F002D9 /* LaunchScreen.storyboard */; };
+		A305EB4A1FD73DBA00F002D9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A305EB491FD73DBA00F002D9 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A305EB3E1FD73CE900F002D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A305EB411FD73CE900F002D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A305EB431FD73CE900F002D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A305EB491FD73DBA00F002D9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A305EB371FD73CE900F002D9 /* AppDelegate.swift */,
 				A305EB391FD73CE900F002D9 /* ViewController.swift */,
 				A305EB3B1FD73CE900F002D9 /* Main.storyboard */,
+				A305EB491FD73DBA00F002D9 /* SecondViewController.swift */,
 				A305EB3E1FD73CE900F002D9 /* Assets.xcassets */,
 				A305EB401FD73CE900F002D9 /* LaunchScreen.storyboard */,
 				A305EB431FD73CE900F002D9 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A305EB4A1FD73DBA00F002D9 /* SecondViewController.swift in Sources */,
 				A305EB3A1FD73CE900F002D9 /* ViewController.swift in Sources */,
 				A305EB381FD73CE900F002D9 /* AppDelegate.swift in Sources */,
 			);
